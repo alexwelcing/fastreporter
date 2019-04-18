@@ -5,7 +5,7 @@ module.exports = {
   siteTitleAlt: 'In case the DOJ are running slow.', // Alternative Site title for SEO
   siteTitleShort: 'Report', // short_name for manifest
   siteHeadline: 'Publishing research faster for the people.', // Headline for schema.org JSONLD
-  siteUrl: 'https://fastreporter.netlify.com', // Domain of your site. No trailing slash!
+  siteUrl: 'https://fastreport.netlify.com', // Domain of your site. No trailing slash!
   siteLanguage: 'en', // Language Tag on <html> element
   siteLogo: '/logos/logo.png', // Used for SEO and manifest
   siteDescription: 'A text analysis of the Mueller report published April 18, 2019.',
