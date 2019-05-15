@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.netlify",
+    "\\config",
+    "\\content",
+    "\\content\\projects\\devops",
+    "\\content\\projects\\Visualization",
+    "\\src",
+    "\\src\\components"
+  ],
+  "SelectedNode": "\\src\\components\\SEO.js",
+  "PreviewInSolutionExplorer": false
+}

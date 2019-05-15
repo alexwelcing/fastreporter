@@ -12,7 +12,7 @@ const Content = styled.footer`
 
 const Footer = () => (
   <Content>
-    &copy; 2018 by Gatsby Starter Portfolio - Emilia. Pictures by{' '}
+    Prototype in development - AW{' '}
     <a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">
       Unsplash
     </a>
